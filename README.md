@@ -1,6 +1,6 @@
 # Cohort-Churn-Analysis-by-kd
 
-Performed cohort analysis on the telecom data .
+Performed cohort analysis on the telecom-service data .
 
 Findings & Observations:
 >Customer with short-term-contract is more likely to churn.
